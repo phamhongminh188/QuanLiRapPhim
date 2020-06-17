@@ -1,0 +1,12 @@
+D:\viduC#\Quanlirapphim\bin\Debug\Quanlirapphim.exe.config
+D:\viduC#\Quanlirapphim\bin\Debug\Quanlirapphim.exe
+D:\viduC#\Quanlirapphim\bin\Debug\Quanlirapphim.pdb
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.csprojAssemblyReference.cache
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.Form1.resources
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.Properties.Resources.resources
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.csproj.GenerateResource.cache
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.csproj.CoreCompileInputs.cache
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.exe
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.pdb
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.timkiemlich.resources
+D:\viduC#\Quanlirapphim\obj\Debug\Quanlirapphim.timkiemphim.resources
